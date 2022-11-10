@@ -16,9 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to contribute
 
-Noooooooooo
-
-ADDED ANOTHER ONE STRING HAHAHAAH
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
